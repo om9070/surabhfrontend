@@ -147,12 +147,12 @@ const App: React.FC = () => {
                   <td className="py-4 px-4">
                     <span
                       className={`text-sm font-medium ${
-                        items.items[id]?.status !== 'delivered'
+                        true
                           ? 'text-blue-600'
                           : 'text-red-600'
                       }`}
                     >
-                      {items.items[id]?.status !== 'delivered' ? 'Delivered' : 'Not delivered'}
+                      {true ? 'Delivered' : 'Not delivered'}
                     </span>
                   </td>
                 </tr>
