@@ -1,0 +1,67 @@
+{
+    "shop": [
+        {
+            "name": "CAPSULE NYC",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "store.jpg"
+                },
+                {
+                    "name": "store.jpg"
+                },
+                {
+                    "name": "store.jpg"
+                }
+            ],
+            "isVerified": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "followers": 241,
+            "id": 1
+        },
+        {
+            "name": "ASSEMBLY NEW YORK",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "store.jpg"
+                },
+                {
+                    "name": "store.jpg"
+                },
+                {
+                    "name": "store.jpg"
+                }
+            ],
+            "isVerified": false,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "followers": 241,
+            "id": 2
+        },
+        {
+            "name": "SATURDAYS NYC",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "store.jpg"
+                },
+                {
+                    "name": "store.jpg"
+                },
+                {
+                    "name": "store.jpg"
+                }
+            ],
+            "isVerified": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "followers": 241,
+            "id": 3
+        }
+    ]
+}

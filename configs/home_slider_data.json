@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "image": "pexels-evg-culture-1040424@2x.png",
+            "title": "WORLDS HUB FOR INDIE BRANDS",
+            "brand": "brand-logo.png"
+        },
+        {
+            "id": "2",
+            "image": "pexels-evg-culture-1040424@2x.png",
+            "title": "WORLDS HUB FOR INDIE BRANDS",
+            "brand": "brand-logo-2.svg"
+        },
+        {
+            "id": "3",
+            "image": "Gruppo di maschere 34@2x.png",
+            "title": "WORLDS HUB FOR INDIE BRANDS",
+            "brand": "brand-logo-2.svg"
+        }
+    ]
+}

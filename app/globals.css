@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "DIN";
+  src: url("../public/fonts/DINBlack.ttf");
+}
+
+@font-face {
+  font-family: "DIN-Medium";
+  src: url("../public/fonts/DINMedium.ttf");
+}
+
+@font-face {
+  font-family: "DIN-Small";
+  src: url("../public/fonts/DIN.ttf");
+}
+
+/* Color Picker custom styling */
+.color-picker .react-colorful {
+  border-radius: 12px;
+}
+
+.color-picker .react-colorful__saturation {
+  margin: 16px 16px;
+  border-radius: 5px;
+  width: 168.08px; 
+
+  border-bottom: none;
+}
+
+.color-picker .react-colorful__hue {
+  order: -1;
+  margin: 16px 16px;
+}
+
+.color-picker .react-colorful__hue,
+.color-picker .react-colorful__alpha {
+  height: 32.95 px;
+  width: 168.08px;
+  border-radius: 5px;
+}
+
+.color-picker .react-colorful__hue-pointer,
+.color-picker .react-colorful__saturation-pointer,
+.color-picker .react-colorful__alpha-pointer {
+  width: 20px;
+  height: 19px;
+}
+
+/* Hide scrollbar for WebKit browsers */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for other browsers */
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}

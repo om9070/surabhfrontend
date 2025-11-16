@@ -1,0 +1,115 @@
+{
+    "brands": [
+        {
+            "id": 1,
+            "name": "LACE AND LOFFA'S",
+            "city": "New York",
+            "cityCode": "NY",
+            "logo": "brand-logo-2.svg",
+            "image": "brand_1-image.png",
+            "products": [
+                {
+                    "image": "pexels-godisable-jacob-794064@2x.png",
+                    "name": "ITEM NAME",
+                    "brand": "Brand Name",
+                    "price": 59.99,
+                    "hasDiscount": false,
+                    "discount": null,
+                    "newPrice": "",
+                    "rating": 5,
+                    "id": 3
+                },
+                {
+                    "image": "brand_one_image_2.png",
+                    "name": "ITEM NAME",
+                    "brand": "Brand Name",
+                    "price": 89.99,
+                    "hasDiscount": true,
+                    "discount": 20,
+                    "newPrice": "59.99",
+                    "rating": 3,
+                    "id": 4
+                }
+            ],
+            "isVerified": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "followers": 241,
+            "views": 1000
+        },
+        {
+            "id": 2,
+            "name": "PRIMROSE",
+            "city": "New York",
+            "cityCode": "NY",
+            "logo": "brand-logo-2.svg",
+            "image": "Brand_2_image.png",
+            "products": [
+                {
+                    "image": "brand_woman_redbg.png",
+                    "name": "ITEM NAME",
+                    "brand": "Brand Name",
+                    "price": 59.99,
+                    "hasDiscount": false,
+                    "discount": null,
+                    "newPrice": "",
+                    "rating": 4,
+                    "id": 1
+                },
+                {
+                    "image": "product_image_3.jpg",
+                    "name": "ITEM NAME",
+                    "brand": "Brand Name",
+                    "price": 59.99,
+                    "hasDiscount": false,
+                    "discount": null,
+                    "newPrice": "",
+                    "rating": 4,
+                    "id": 2
+                }
+            ],
+            "isVerified": false,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "followers": 241,
+            "views": 1000
+        },
+        {
+            "id": 3,
+            "name": "SPACEMILK",
+            "city": "New York",
+            "cityCode": "NY",
+            "logo": "brand-logo-2.svg",
+            "image": "Brand_2_image.png",
+            "products": [
+                {
+                    "image": "man_flower_pink.png",
+                    "name": "ITEM NAME",
+                    "brand": "Brand Name",
+                    "price": 59.99,
+                    "hasDiscount": false,
+                    "discount": null,
+                    "newPrice": "",
+                    "rating": 5,
+                    "id": 3
+                },
+                {
+                    "image": "product44.png",
+                    "name": "ITEM NAME",
+                    "brand": "Brand Name",
+                    "price": 89.99,
+                    "hasDiscount": true,
+                    "discount": 20,
+                    "newPrice": "59.99",
+                    "rating": 3,
+                    "id": 4
+                }
+            ],
+            "isVerified": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "followers": 241,
+            "views": 1000
+        }
+    ]
+}

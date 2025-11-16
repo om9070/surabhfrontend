@@ -1,0 +1,92 @@
+{
+    "items": [
+        {
+            "image": "product_image.svg",
+            "name": "ITEM NAME1",
+            "brand": "Brand Name025",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 4,
+            "id": 1
+        },
+        {
+            "image": "product8yellow.png",
+            "name": "ITEM NAME2",
+            "brand": "Brand Name456",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 4,
+            "id": 2
+        },
+        {
+            "image": "man_flower_pink.png",
+            "name": "ITEM NAME3",
+            "brand": "Brand Name895",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 5,
+            "id": 3
+        },
+        {
+            "image": "product44.png",
+            "name": "ITEM NAME4",
+            "brand": "Brand Name4563",
+            "price": 89.99,
+            "hasDiscount": true,
+            "discount": 20,
+            "newPrice": "59.99",
+            "rating": 3,
+            "id": 4
+        },
+        {
+            "image": "brand_woman_redbg.png",
+            "name": "ITEM NAME5",
+            "brand": "Brand Name789653",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 5,
+            "id": 5
+        },
+        {
+            "image": "man_flower_pink.png",
+            "name": "ITEM NAME6",
+            "brand": "Brand Name895",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 5,
+            "id": 6
+        },
+        {
+            "image": "product7.png",
+            "name": "ITEM NAME7",
+            "brand": "Brand Name78965",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 4,
+            "id": 7
+        },
+        {
+            "image": "product_image_3.jpg",
+            "name": "ITEM NAME8",
+            "brand": "Brand Name7895",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 5,
+            "id": 8
+        }
+    ]
+}

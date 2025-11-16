@@ -1,0 +1,234 @@
+{
+    "brands": [
+        {
+            "name": "CAPSULE NYC",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "store_catch.jpg"
+                },
+                {
+                    "name": "store_catch.jpg"
+                },
+                {
+                    "name": "store_catch.jpg"
+                }
+            ],
+            "isVerified": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "likes": 241
+        },
+        {
+            "name": "ASSEMBLY NEW YORK",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "image1.jpg"
+                },
+                {
+                    "name": "image2.jpg"
+                },
+                {
+                    "name": "image3.jpg"
+                }
+            ],
+            "isVerified": false,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "likes": 241
+        },
+        {
+            "name": "SATURDAYS NYC",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "image1.jpg"
+                },
+                {
+                    "name": "image2.jpg"
+                },
+                {
+                    "name": "image3.jpg"
+                }
+            ],
+            "isVerified": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "likes": 241
+        }
+    ],
+    "items": [
+        {
+            "image": "fashion.jpg",
+            "name": "ITEM NAME",
+            "brand": "Brand Name",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 4
+        },
+        {
+            "image": "product_image _1.jpg",
+            "name": "ITEM NAME",
+            "brand": "Brand Name",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 4
+        },
+        {
+            "image": "man_flower_pink.png",
+            "name": "ITEM NAME",
+            "brand": "Brand Name",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 5
+        },
+        {
+            "image": "brand_woman_redbg.png",
+            "name": "ITEM NAME",
+            "brand": "Brand Name",
+            "price": 89.99,
+            "hasDiscount": true,
+            "discount": -20,
+            "newPrice": "59.99",
+            "rating": 3
+        },
+        {
+            "image": "",
+            "name": "ITEM NAME",
+            "brand": "Brand Name",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 5
+        },
+        {
+            "image": "man_sneakers_whitengshop.jpg",
+            "name": "ITEM NAME",
+            "brand": "Brand Name",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 5
+        },
+        {
+            "image": "blackgril_yellow_background.jpg",
+            "name": "ITEM NAME",
+            "brand": "Brand Name",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 4
+        },
+        {
+            "image": "product_image_8.jpg",
+            "name": "ITEM NAME",
+            "brand": "Brand Name",
+            "price": 59.99,
+            "hasDiscount": false,
+            "discount": null,
+            "newPrice": "",
+            "rating": 5
+        }
+    ],
+    "shop": [
+        {
+            "name": "CAPSULE NYC",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "store_catch.jpg"
+                },
+                {
+                    "name": "store_catch.jpg"
+                },
+                {
+                    "name": "store_catch.jpg"
+                }
+            ],
+            "isVerified": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "likes": 241
+        },
+        {
+            "name": "ASSEMBLY NEW YORK",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "image1.jpg"
+                },
+                {
+                    "name": "image2.jpg"
+                },
+                {
+                    "name": "image3.jpg"
+                }
+            ],
+            "isVerified": false,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "likes": 241
+        },
+        {
+            "name": "SATURDAYS NYC",
+            "city": "New York",
+            "cityCode": "NY",
+            "images": [
+                {
+                    "name": "image1.jpg"
+                },
+                {
+                    "name": "image2.jpg"
+                },
+                {
+                    "name": "image3.jpg"
+                }
+            ],
+            "isVerified": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "address": "383 W 125th St. New York, NY 10021, United States",
+            "likes": 241
+        }
+    ],
+    "orders": [
+        {
+          "items": "INXUI743",
+          "quantity": 1,
+          "size": 34,
+          "color": "#756AUY",
+          "deliveryInfo": "Columbus Street, Irvine, CA, USA, 33.704636",
+          "status": "Not Delivered"
+        },
+        {
+          "items": "INXUI744",
+          "quantity": 2,
+          "size": 36,
+          "color": "#756BVI",
+          "deliveryInfo": "Broadway Street, New York, NY, USA, 40.712776",
+          "status": "Delivered"
+        },
+        {
+          "items": "INXUI745",
+          "quantity": 3,
+          "size": 38,
+          "color": "#756CKI",
+          "deliveryInfo": "Kings Road, London, UK, 51.507351",
+          "status": "Not Delivered"
+        }
+      ]
+}
