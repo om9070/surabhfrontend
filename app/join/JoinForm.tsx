@@ -9,7 +9,7 @@ import { registerValidationSchema } from "@/validation/authValidation";
 import Link from "next/link";
 import { toast } from "react-toastify";
 // export const API_URL = "http://localhost:4000";
-export const API_URL = "https://ojo-zeta.vercel.app";
+export const API_URL = "http://127.0.0.1:4000";
 
 interface FormValues {
   first_name: string;
